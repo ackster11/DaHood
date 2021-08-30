@@ -1,4 +1,6 @@
 -- Warning: Do not use this.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ackster11/DaHood/main/Part1", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ackster11/DaHood/main/Part2", true))()
+while true do
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('дерьмо сука педик секс', 'All'); -- FireServer (<string> Message, <string> Channel)
+	wait(0.8)
+end
