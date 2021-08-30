@@ -1,0 +1,4 @@
+while true do
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('дерьмо сука педик секс', 'All'); -- FireServer (<string> Message, <string> Channel)
+	wait(0.8)
+end
