@@ -1,0 +1,3 @@
+while wait() do
+game.Players:ReportAbuse(game.Players.Brihiiiii, "Exploiting", "I am exploiting. this report is a macro made by my exploits")
+end
